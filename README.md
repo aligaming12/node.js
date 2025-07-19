@@ -99,7 +99,42 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any questions or feedback, please reach out to us at example@email.com
+
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="Contact Us" width="150">
+</div>
+
+<p align="center">We'd love to hear from you! Reach out with any questions, feedback, or collaboration opportunities.</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:nhathungvs@gmail.com">
+          <img src="https://img.shields.io/badge/Email-nhathungvs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:oddtran111@gmail.com">
+          <img src="https://img.shields.io/badge/Email-oddtran111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/yourusername" target="_blank">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?style=social">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/yourusername" target="_blank">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourusername?style=social">
+    </a>
+  </p>
+  <p>Response time: <b>within 24 hours</b> ⏱️</p>
+</div>
 
 <div align="center">
 
