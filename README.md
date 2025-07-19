@@ -101,43 +101,63 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 <div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Contact Us" width="150">
+  <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" alt="Contact Us" width="400">
 </div>
 
-<p align="center">We'd love to hear from you! Reach out with any questions, feedback, or collaboration opportunities.</p>
+<div align="center">
+  <h3>👋 Connect With Us</h3>
+  <p>We're excited to hear from you! Let's build something amazing together.</p>
+</div>
+
+<div align="center" style="background-color: #121212; border-radius: 10px; padding: 20px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+    <a href="mailto:nhathungvs@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-nhathungvs-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333"/>
+    </a>
+    <a href="mailto:oddtran111@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-oddtran111-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333"/>
+    </a>
+    <a href="https://www.facebook.com/tranduy.nhat.750" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Facebook-Connect-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=333333"/>
+    </a>
+  </div>
+</div>
 
 <div align="center">
-  <table>
+  <table style="border-collapse: separate; border-spacing: 15px; background: transparent;">
     <tr>
-      <td align="center">
+      <td align="center" style="background: #1e1e1e; border-radius: 10px; padding: 15px; border: none;">
         <a href="mailto:nhathungvs@gmail.com">
-          <img src="https://img.shields.io/badge/Email-nhathungvs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          <img src="https://www.gstatic.com/images/branding/product/2x/gmail_48dp.png" width="48" height="48"/><br/>
+          <span style="color: white;">nhathungvs@gmail.com</span>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="background: #1e1e1e; border-radius: 10px; padding: 15px; border: none;">
+        <a href="https://www.facebook.com/tranduy.nhat.750">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/150px-2023_Facebook_icon.svg.png" width="48" height="48"/><br/>
+          <span style="color: white;">Tran Duy Nhat</span>
+        </a>
+      </td>
+      <td align="center" style="background: #1e1e1e; border-radius: 10px; padding: 15px; border: none;">
         <a href="mailto:oddtran111@gmail.com">
-          <img src="https://img.shields.io/badge/Email-oddtran111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          <img src="https://www.gstatic.com/images/branding/product/2x/gmail_48dp.png" width="48" height="48"/><br/>
+          <span style="color: white;">oddtran111@gmail.com</span>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
 <div align="center">
-  <p>
-    <a href="https://github.com/yourusername" target="_blank">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?style=social">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/yourusername" target="_blank">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourusername?style=social">
-    </a>
-  </p>
-  <p>Response time: <b>within 24 hours</b> ⏱️</p>
+  <img src="https://i.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.webp" width="200"/>
+  <p><b>Response time:</b> <span style="color:#4CAF50;font-weight:bold;">within 24 hours</span> ⏱️</p>
 </div>
 
-<div align="center">
-
-### Star the repo if you find it useful! ⭐
-
+<div align="center" style="background: linear-gradient(90deg, #1a1a1a 0%, #2a2a2a 100%); border-radius: 10px; padding: 15px; margin-top: 30px;">
+  <h3 style="margin-bottom: 10px; color: gold;">⭐ Star the repo if you find it useful! ⭐</h3>
+  <a href="#top">
+    <img src="https://img.shields.io/github/stars/yourusername/nodejs-learning-platform?style=social" alt="GitHub stars"/>
+  </a>
 </div>
